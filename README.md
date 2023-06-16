@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HemanthKumar R @Hemanthkr11
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java full stack
+- 🌱 I’m currently learning MERN full stack
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Hemanthkr0111@gmail.com
 
